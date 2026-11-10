@@ -4,7 +4,7 @@ Run Cucumber tests on BrowserStack Automate using our Ruby integration.
 
 > Running your Selenium tests on BrowserStack requires a username and an access key. To create an account go to [BrowserStack Automate](https://www.browserstack.com/automate)
 
-![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
+![BrowserStack Logo](https://www.browserstack.com/images/static/header-logo.jpg)
 
 ## Running First Test
 
